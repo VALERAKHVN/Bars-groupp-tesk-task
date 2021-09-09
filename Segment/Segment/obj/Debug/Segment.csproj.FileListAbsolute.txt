@@ -1,0 +1,7 @@
+C:\Users\wildan\source\repos\Segment\Segment\obj\Debug\Segment.csprojAssemblyReference.cache
+C:\Users\wildan\source\repos\Segment\Segment\obj\Debug\Segment.csproj.CoreCompileInputs.cache
+C:\Users\wildan\source\repos\Segment\Segment\bin\Debug\Segment.exe.config
+C:\Users\wildan\source\repos\Segment\Segment\bin\Debug\Segment.exe
+C:\Users\wildan\source\repos\Segment\Segment\bin\Debug\Segment.pdb
+C:\Users\wildan\source\repos\Segment\Segment\obj\Debug\Segment.exe
+C:\Users\wildan\source\repos\Segment\Segment\obj\Debug\Segment.pdb
